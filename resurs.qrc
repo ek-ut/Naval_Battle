@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/sea.png</file>
+        <file>images/seaCheck.png</file>
+        <file>images/deck.png</file>
+        <file>images/DeckDamaged.png</file>
+        <file>images/sea45.png</file>
+    </qresource>
+</RCC>
